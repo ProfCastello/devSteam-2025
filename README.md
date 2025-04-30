@@ -16,7 +16,7 @@ DevSteam é uma aplicação web inspirada na plataforma Steam, desenvolvida com 
 
 ## 📸 Preview
 
-> Adicione aqui imagens ou gifs da aplicação em funcionamento.
+<!-- > Adicione aqui imagens ou gifs da aplicação em funcionamento. -->
 
 ---
 
